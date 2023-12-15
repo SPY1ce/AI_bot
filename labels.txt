@@ -1,0 +1,4 @@
+0 Sparrows
+1 Pigeons
+2 Parrots
+3 Titmouse
